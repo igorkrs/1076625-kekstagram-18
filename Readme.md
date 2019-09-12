@@ -1,8 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Игорь Красавцев](https://up.htmlacademy.ru/javascript/18/user/1076625).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Андрей Слесаренко](https://up.htmlacademy.ru/javascript/18/user/279781).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
